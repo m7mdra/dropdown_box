@@ -2,6 +2,10 @@
 
 Dropdown Box is a Flutter package that provides a customizable dropdown widget with an animated arrow and a configurable popup menu. It simplifies the implementation of dropdown functionalities in your Flutter applications.
 
+
+https://github.com/user-attachments/assets/39e3aaf7-2a20-4827-bc38-c9c9d7c1e80f
+
+
 ## Features
 
 - **Customizable Dropdown Box**: Configure text style, background color, border radius, and padding of the dropdown box.
