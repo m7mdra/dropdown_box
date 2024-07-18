@@ -19,10 +19,7 @@ To use this package, add `dropdown_box` as a dependency in your `pubspec.yaml` f
 
 ```yaml  
 dependencies:  
-  dropdown_box:
-    git:
-      url: https://github.com/m7mdra/dropdown_box
-      ref: master
+  dropdown_box: ^0.0.1
 ```  
 ## Usage
 For detailed instructions on how to use the package, refer to the [example](example) provided.
