@@ -1,8 +1,7 @@
 name: dropdown_box
-description: "A new Flutter project."
+description: "Customizable dropdown widget"
 version: 0.0.1
 homepage: https://github.com/m7mdra/dropdown_box
-publish_to: https://pub.dev
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
